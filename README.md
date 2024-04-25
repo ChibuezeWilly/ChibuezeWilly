@@ -1,4 +1,4 @@
-![IMG-20240303-WA0006](https://github.com/ChibuezeWilly/ChibuezeWilly/assets/162295276/772c23c0-1f60-47ea-a553-96f900b29aa2)- 👋 Hi, I’m Chibueze Williams
+👋 Hi, I’m Chibueze Williams
 - 👀 I’m interested in Software Engineering 
 - 🌱 I’m currently learning Javascrit
 - 💞️ I’m looking to collaborate in Open Source
