@@ -81,7 +81,6 @@ Because good engineering isn't just about writing code.
 
 ## Current Focus
 
-* 🧠 Advancing deeper into **Deep Learning and PyTorch**
 * 🤖 Building production-oriented **LLM and agentic systems**
 * 🔎 Going deeper into **RAG, evaluation, AI reliability, and AI infrastructure**
 * 🏗️ Building real-world AI systems with strong architectural tradeoffs
@@ -89,17 +88,6 @@ Because good engineering isn't just about writing code.
 * ✍️ Writing my **AI Engineering book**, documenting what I'm learning, the concepts behind it, and practical implementations
 
 ---
-
-## A Little About Me
-
-I'm still early in my AI engineering journey, and I'm completely fine with that.
-
-I don't pretend to know everything.
-
-What I do have is the willingness to learn, the discipline to build, and a slightly unreasonable desire to keep figuring things out until something works. 😄
-
-I'm here to build difficult things, create meaningful products, work with great engineers, and eventually become the kind of engineer who can walk into a messy problem and turn it into a system that works.
-
 **If it creates value, I'm interested.
 If it solves a real problem, I'm even more interested.
 If it makes money, well... now we're definitely talking.** 💰😂
@@ -110,7 +98,6 @@ If it makes money, well... now we're definitely talking.** 💰😂
 
 * 📞 **Phone:** +229 0161975355
 * 📧 **Email:** [pricelesswilliams1234@gmail.com](mailto:pricelesswilliams1234@gmail.com)
-* ✍️ **Medium:** [medium.com/@pricelesswilliams1234](https://medium.com/@pricelesswilliams1234)
 
 ---
 
