@@ -6,7 +6,9 @@ I build and ship AI-powered products that automate complex workflows and solve r
 
 Cotonou, Benin (GMT+1) · **Open to remote opportunities**  
 [pricelesswilliams1234@gmail.com](mailto:pricelesswilliams1234@gmail.com)  
+
 [GitHub](https://github.com/ChibuezeWilly) 
+
 [View my resume](https://docs.google.com/document/d/1heosKkUOUMIlL_znk8e__2qBV2CmbVhzgh0AAyt279Q/edit?usp=drive_link)
 
 ---
